@@ -1,0 +1,97 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.css text eol=lf diff=css
+*.scss text eol=lf diff=css
+*.php text eol=lf diff=php
+*.htm text eol=lf diff=html
+*.html text eol=lf diff=html
+*.py text eol=lf diff=python
+*.rb text eol=lf diff=ruby
+*.md text eol=lf diff=markdown
+*.pl text eol=lf diff=perl
+*.pm text eol=lf diff=perl
+*.java text eol=lf diff=java
+*.kt text eol=lf diff=java
+*.gradle text eol=lf diff=java
+*.gradle.kts text eol=lf diff=java
+*.go text eol=lf diff=golang
+*.cs text eol=lf diff=csharp
+*.map text eol=lf -diff
+pnpm-lock.yaml text eol=lf -diff
+package-lock.json text eol=lf -diff
+*.lock text eol=lf -diff
+*.doc diff=astextplain
+*.docx diff=astextplain
+*.docm diff=astextplain
+*.dot diff=astextplain
+*.dotx diff=astextplain
+*.dotm diff=astextplain
+*.pdf diff=astextplain
+*.rtf diff=astextplain
+*.ods diff=astextplain
+*.odf diff=astextplain
+*.odt diff=astextplain
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg binary
+*.svgz binary
+*.webp binary
+*.psd binary
+*.cdr binary
+*.ai binary
+*.3gp binary
+*.avi binary
+*.flv binary
+*.mov binary
+*.mp4 binary
+*.mpg binary
+*.mpeg binary
+*.ogv binary
+*.swf binary
+*.webm binary
+*.mkv binary
+*.mp3 binary
+*.m4a binary
+*.wav binary
+*.midi binary
+*.ogg binary
+*.oga binary
+*.pdf binary
+*.pub binary
+*.epub binary
+*.7z binary
+*.gz binary
+*.tgz binary
+*.tar binary
+*.rar binary
+*.zip binary
+*.jar binary
+*.apk binary
+*.aab binary
+*.xapk binary
+*.class binary
+*.war binary
+*.jks binary
+*.ear binary
+*.exe binary
+*.msi binary
+*.dll binary
+*.bin binary
+*.app binary
+*.so binary
+*.lib binary
+*.ipa binary
+*.ttf binary
+*.eot binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+.gitattributes export-ignore
+.gitignore export-ignore
+.gitkeep export-ignore
