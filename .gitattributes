@@ -34,6 +34,7 @@ package-lock.json text eol=lf -diff
 *.odt diff=astextplain
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
+*.php linguist-language=php
 *.png binary
 *.jpg binary
 *.jpeg binary
